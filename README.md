@@ -8,8 +8,6 @@ This repository contains all of the work conducted in the scope of a Masters Deg
 
 [**'dataset_scripts/'**](https://github.com/joselamar/fruit_detection_app/tree/main/dataset_scripts) - In this folder there are scripts to put the annotation format into YOLOv5 from a collection of [datasets](#datasets). There is also a script to transform ***YOLOv5*** annotations to ***PASCAL VOC*** format as well as to the ***COCO*** format. At last, the ['build_dataset.py'](https://github.com/joselamar/fruit_detection_app/tree/main/dataset_scripts/build_dataset.py) splits the dataset into training, validation and testing. In order to replicate the same results it's necessary to change the source and destination folders, on each script.
 
-`NOTE: The dataset used can be obtained through this` [link](https://drive.google.com/drive/folders/1dKVL9DgJ5-_c2TCMWHvfrkvBODwr_pqX?usp=sharing)`, or separately by following the references links.`
-
 ## 2. **Object Detection** - Training and Testing Object Detection Frameworks
 >  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse id risus fringilla, tristique est id, mattis leo. Proin vulputate dolor a nunc fermentum dapibus. In massa ante, condimentum sit amet ullamcorper quis, elementum a dolor. Suspendisse pretium sapien in accumsan viverra.
 

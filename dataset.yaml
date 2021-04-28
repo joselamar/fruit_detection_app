@@ -1,5 +1,10 @@
-train: /Users/JoseLamarao/Projects/fruit_detection_app/DATASET_YOLOv5/train/images
-val: /Users/JoseLamarao/Projects/fruit_detection_app/DATASET_YOLOv5/valid/images
+# download command/URL (optional)
+#download: https://github.com/ultralytics/yolov5/releases/download/v1.0/coco128.zip
+
+# train and val data as 1) directory: path/images/, 2) file: path/images.txt, or 3) list: [path1/images/, path2/images/]
+train: /content/drive/MyDrive/DATASET/images/train/
+val: /content/drive/MyDrive/DATASET/images/validation/
+test: /content/drive/MyDrive/DATASET/images/test/
 
 # number of classes
 nc: 8
