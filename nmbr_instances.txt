@@ -1,0 +1,6 @@
+|  category  | #instances   |  category  | #instances   |  category  | #instances   |
+|:----------:|:-------------|:----------:|:-------------|:----------:|:-------------|
+|   mango    | 6390         |   almond   | 3871         |   apple    | 29384        |
+|  avocado   | 125          |  capsicum  | 629          |   orange   | 205          |
+| rockmelon  | 123          | strawberry | 282          |            |              |
+|   total    | 41009        |            |              |            |              |

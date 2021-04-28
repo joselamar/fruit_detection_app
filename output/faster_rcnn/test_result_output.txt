@@ -1,0 +1,26 @@
+
+[04/28 15:58:48 d2.evaluation.fast_eval_api]: COCOeval_opt.accumulate() finished in 0.12 seconds.
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.000
+ Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets=100 ] = 0.002
+ Average Precision  (AP) @[ IoU=0.75      | area=   all | maxDets=100 ] = 0.000
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area= small | maxDets=100 ] = 0.000
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=medium | maxDets=100 ] = 0.000
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area= large | maxDets=100 ] = 0.001
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets=  1 ] = 0.003
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets= 10 ] = 0.009
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.013
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area= small | maxDets=100 ] = 0.005
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=medium | maxDets=100 ] = 0.010
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area= large | maxDets=100 ] = 0.016
+[04/28 15:58:48 d2.evaluation.coco_evaluation]: Evaluation results for bbox: 
+|  AP   |  AP50  |  AP75  |  APs  |  APm  |  APl  |
+|:-----:|:------:|:------:|:-----:|:-----:|:-----:|
+| 0.026 | 0.165  | 0.001  | 0.017 | 0.042 | 0.129 |
+[04/28 15:58:48 d2.evaluation.coco_evaluation]: Per-category bbox AP: 
+| category   | AP    | category   | AP    | category   | AP    |
+|:-----------|:------|:-----------|:------|:-----------|:------|
+| mango      | 0.002 | almond     | 0.000 | apple      | 0.106 |
+| avocado    | 0.049 | capsicum   | 0.009 | orange     | 0.000 |
+| rockmelon  | 0.000 | strawberry | 0.045 |            |       |
+OrderedDict([('bbox', {'AP': 0.026365066794288405, 'AP50': 0.16493868585126029, 'AP75': 0.0008573639817009469, 'APs': 0.017179929279286906, 'APm': 0.042017332662347376, 'APl': 0.12930871979281075, 'AP-mango': 0.0019449987057285584, 'AP-almond': 7.914764514558407e-05, 'AP-apple': 0.10614918236252276, 'AP-avocado': 0.04868320840181184, 'AP-capsicum': 0.009282178217821782, 'AP-orange': 0.0, 'AP-rockmelon': 0.0, 'AP-strawberry': 0.04478181902127674})])
+

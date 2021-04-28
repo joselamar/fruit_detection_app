@@ -17,7 +17,7 @@ This repository contains all of the work conducted in the scope of a Masters Deg
     
 - To train you can use this command and change it accordingly:
 
-        python3 yolov5_script.py --yaml 'yaml_location' --batch_size batch_size --epochs nmbr_epochs --is_training 1 --weights 'weights_location' --save 'save_folder_location'
+        python3 yolov5_script.py --yaml 'yaml_location' --batch_size batch_size --epochs nmbr_epochs --is_training 1 --weights 'weights_location' --project 'save_folder_location'
 
 `NOTE: To test the model you have to switch --is_training 1 for --is_training 0.`
 
@@ -33,10 +33,12 @@ This repository contains all of the work conducted in the scope of a Masters Deg
 
 >Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse id risus fringilla, tristique est id, mattis leo. Proin vulputate dolor a nunc fermentum dapibus. In massa ante, condimentum sit amet ullamcorper quis, elementum a dolor. Suspendisse pretium sapien in accumsan viverra.
 
-## 5. **Screenshots**
+## 5. Replicate Results
 
+## 6. **Screenshots**
 
-## 6. **References**
+## 7. **References**
 
-* #### Datasets 
+* #### Datasets
+        
 * #### Articles
