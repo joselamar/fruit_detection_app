@@ -1,0 +1,8 @@
+train: /Users/JoseLamarao/Projects/fruit_detection_app/DATASET_YOLOv5/train/images
+val: /Users/JoseLamarao/Projects/fruit_detection_app/DATASET_YOLOv5/valid/images
+
+# number of classes
+nc: 8
+
+# class names
+names: ['mango','almond','apple','avocado','capsicum','orange','rockmelon','strawberry']
